@@ -1,0 +1,2 @@
+com/fullcycle/admin/catalogo/Main.java
+ com.fullcycle.admin.catalogo.Main

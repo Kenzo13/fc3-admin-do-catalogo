@@ -1,0 +1,2 @@
+com/fullcycle/admin/catalogo/application/UseCaseTest.java
+ com.fullcycle.admin.catalogo.application.UseCaseTest

@@ -1,0 +1,12 @@
+com/fullcycle/admin/catalogo/domain/Entity.java
+ com.fullcycle.admin.catalogo.domain.Entity
+com/fullcycle/admin/catalogo/domain/AggregateRoot.java
+ com.fullcycle.admin.catalogo.domain.AggregateRoot
+com/fullcycle/admin/catalogo/domain/category/Category.java
+ com.fullcycle.admin.catalogo.domain.category.Category
+com/fullcycle/admin/catalogo/domain/category/CategoryID.java
+ com.fullcycle.admin.catalogo.domain.category.CategoryID
+com/fullcycle/admin/catalogo/domain/ValueObject.java
+ com.fullcycle.admin.catalogo.domain.ValueObject
+com/fullcycle/admin/catalogo/domain/Identifier.java
+ com.fullcycle.admin.catalogo.domain.Identifier

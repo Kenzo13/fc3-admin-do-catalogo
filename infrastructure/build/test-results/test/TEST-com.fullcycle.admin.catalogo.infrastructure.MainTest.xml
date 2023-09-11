@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.fullcycle.admin.catalogo.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-06-12T23:15:28" hostname="raphael-Lenovo-G400s" time="0.033">
+  <properties/>
+  <testcase name="testMain()" classname="com.fullcycle.admin.catalogo.infrastructure.MainTest" time="0.033"/>
+  <system-out><![CDATA[com.fullcycle.admin.catalogo.domain.Category@52cd6f58
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
